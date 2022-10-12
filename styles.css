@@ -1,0 +1,13 @@
+body {
+    font-family: monospace;
+    line-height: 1.5em;
+}
+
+li {
+
+    color: grey;
+}
+
+.heading {
+    background: url(./images/Untitled-1.png);
+}
